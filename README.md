@@ -2,7 +2,7 @@
 <h3 align="center">MCA @ NIT Jamshedpur | Full Stack Developer | Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushdudeja/" target="blank">
+  <a href="[https://www.linkedin.com/in/ayushdudeja](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGoNMyc8hz7KQAAAZe3Q4kQKYhxoEJjoQyGqjno6tTgY5fo3oc-KZxFxJ48XZRvv5cnQNvIEKx0t0qS-jrxBJS88-SvRpm_YIH20BEsZYkygiyFPRzPxR79mS9F6Ogmoibu4x0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fayush-pandey-60a138255)/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:treddytalks@gmail.com" target="blank">
