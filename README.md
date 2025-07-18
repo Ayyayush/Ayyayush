@@ -6,10 +6,6 @@
 <h3 align="center">MCA @ NIT Jamshedpur | Full Stack Developer | Tech Explorer</h3>
 
 <!-- 💻 Animated GIF -->
-<p align="center">
-  <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="300" />
-</p>
-
 
 
 
@@ -61,6 +57,12 @@
 
 ---
 
+<p align="center">
+  <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="300" />
+</p>
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -93,3 +95,9 @@
 <p align="center">
   <img src="https://github.com/ayyayush/ayyayush/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
