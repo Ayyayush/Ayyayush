@@ -90,7 +90,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution 
 
 <p align="center">
   <img src="https://github.com/ayyayush/ayyayush/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
