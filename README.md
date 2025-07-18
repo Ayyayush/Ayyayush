@@ -102,6 +102,6 @@
 
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ayyayush/ayyayush/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
