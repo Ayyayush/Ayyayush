@@ -93,15 +93,6 @@
 ## 🐍 GitHub Contribution 
 
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayyayush/ayyayush/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayyayush/ayyayush/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
