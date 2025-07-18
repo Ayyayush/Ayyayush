@@ -1,12 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
+<!-- 🖋️ Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Pandey" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">MCA @ NIT Jamshedpur | Full Stack Developer | Tech Explorer</h3>
 
+<!-- 💻 Animated GIF -->
+<p align="center">
+  <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="300" />
+</p>
+
+
+
+
+<!-- 🔗 Contact buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-pandey-60a138255/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:treddytalks@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -20,6 +33,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -51,12 +65,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayyayush&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayyayush&show_icons=true&theme=radical" height="180" />
 
-<!-- ✅ Working streak image using reliable mirror -->
-<img src="https://streak-stats.demolab.com?user=ayyayush&theme=radical" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayyayush&theme=radical" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyayush&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyayush&layout=compact&theme=radical" height="180" />
 
 </div>
 
@@ -71,4 +84,12 @@
   <a href="mailto:treddytalks@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ayyayush/ayyayush/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
