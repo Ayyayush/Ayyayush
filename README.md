@@ -7,8 +7,6 @@
 
 <!-- 💻 Animated GIF -->
 
-
-
 <!-- 🔗 Contact buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-pandey-60a138255/" target="blank">
@@ -30,6 +28,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -61,16 +61,12 @@
   <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="300" />
 </p>
 
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=ayyayush&show_icons=true&theme=radical" height="180" />
-
   <img src="https://streak-stats.demolab.com?user=ayyayush&theme=radical" height="180" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyayush&layout=compact&theme=radical" height="180" />
 
 </div>
@@ -91,7 +87,6 @@
 ---
 
 ## 🐍 GitHub Contribution 
-
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
