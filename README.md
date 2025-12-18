@@ -95,13 +95,13 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/007Ayush/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/007ayush" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://ayush-pandey-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
