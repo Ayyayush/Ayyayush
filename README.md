@@ -1,10 +1,27 @@
+
 <!-- ========================= -->
 <!-- 🔥 PREMIUM GITHUB README -->
 <!-- ========================= -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+👋+I'm+Ayush+Pandey;Full+Stack+Developer;MCA+@+NIT+Jamshedpur;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<h1 align="center" style="font-weight: 800;">
+  Hi, I'm <span style="color:#6C63FF;">Ayush Pandey</span>
 </h1>
+
+<h3 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MCA+@+NIT+Jamshedpur;Building+Scalable+Web+Apps;DSA+%7C+System+Design+%7C+Performance" 
+    alt="Typing SVG" 
+  />
+</h3>
+
+<p align="center">
+  <em>
+    Designing clean architectures • Writing scalable code • Solving real-world problems
+  </em>
+</p>
+
+---
+
 
 <h3 align="center">
   🚀 Full Stack Developer | MCA @ NIT Jamshedpur | Tech Explorer
