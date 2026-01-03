@@ -1,7 +1,10 @@
-
 <!-- ========================= -->
 <!-- 🔥 PREMIUM GITHUB README -->
 <!-- ========================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayyayush/ayyayush/main/assets/coding.gif" width="600" />
+</p>
 
 <h1 align="center" style="font-weight: 800;">
   Hi, I'm <span style="color:#6C63FF;">Ayush Pandey</span>
@@ -22,14 +25,13 @@
 
 ---
 
-
 <h3 align="center">
   🚀 Full Stack Developer | MCA @ NIT Jamshedpur | Tech Explorer
 </h3>
 
 <p align="center">
   <em>
-    Passionate about building modern web applications, scalable systems, and continuously exploring new technologies.
+    Passionate about building modern web applications, scalable systems, and data-driven solutions.
   </em>
 </p>
 
@@ -51,10 +53,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 MCA student at **NIT Jamshedpur**
-- 💻 Full Stack Developer (MERN focused)
-- 🔍 Interested in **System Design, Web Performance & Data Engineering**
+- 💻 Full Stack Developer (MERN)
+- 📊 Exploring **Data Engineering & Analytics**
 - 🧠 Strong in **DSA & Problem Solving**
-- ⚡ Believer in *clean code, scalable architecture, and continuous learning*
+- ⚡ Believer in *clean code, scalable architecture & continuous learning*
 
 ---
 
@@ -86,6 +88,15 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 📊 Data Science & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -122,12 +133,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>
-    Actively practicing Data Structures & Algorithms and building real-world full-stack applications.
-  </em>
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -146,7 +151,12 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation"/>
+  <img src="https://github.com/ayyayush/ayyayush/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayyayush/ayyayush/main/assets/dev-sticker.gif" width="420"/><br/>
+  <sub><em>Building. Breaking. Learning.</em></sub>
 </p>
 
 ---
