@@ -93,6 +93,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
+
 ## ⚙️ DevOps & Cloud
 <p align="center">
   <!-- CI / CD -->
@@ -117,33 +118,6 @@
 </p>
 
 
-
-## 📊 Data Science & Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/Statistics-4A148C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-00695C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  </p>
-
-## 🤖 Generative AI & Agentic Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-0B3C5D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM_Deployment-2E7D32?style=for-the-badge"/>
-</p>
 
 ## ⚙️ Tools & Platforms
 <p align="center">
@@ -174,9 +148,6 @@
 ## 🧠 Coding Profiles & Portfolio
 
 <p align="center">
-  <a href="https://leetcode.com/u/007Ayush/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
   <a href="https://www.geeksforgeeks.org/profile/007ayush" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
